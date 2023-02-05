@@ -1,0 +1,3 @@
+/Users/ishanigos/CLionProjects/CSCE438-HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ishanigos/CLionProjects/CSCE438-HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ishanigos/CLionProjects/CSCE438-HW4/cmake-build-debug/CMakeFiles/CSCE438_HW4.dir
